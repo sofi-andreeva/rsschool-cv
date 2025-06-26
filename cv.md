@@ -26,3 +26,30 @@ Beginner frontend developer learning HTML, CSS, and JavaScript. Building simple 
 - Git
 
 ---
+
+**Code example**
+
+```js
+// Write a function "greet" that returns "hello world!"
+const greet = () => {
+  return "hello world!";
+}
+```
+
+---
+
+**Education**
+
+- Tyumen Industrial Univercity
+
+- HTML-academy
+
+- Hexlet
+
+---
+
+**Language**
+
+- English - B1
+
+- Russian - native
